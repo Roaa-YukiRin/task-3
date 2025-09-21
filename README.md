@@ -36,4 +36,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44ce51ce-e87e-4c95-9e69-6ce44f620f41" />
 
 ## نعمل join
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6cae653-8b64-4f01-9a7c-78242ae7b9e3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15d587ee-a4a8-4d95-b92f-c2ddea476f62" />
+
+## بعد التصحيح
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5fe147c-98a4-406b-9c43-92d266bf9e4a" />
+
+
