@@ -20,3 +20,7 @@
 ## نعمل الجدول الأول
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec0e9cfa-702e-4eb3-8c71-ba69e6c0143b" />
 
+## اضافة بيانات
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/410a659d-a6b2-4ec3-988a-fdfab6b1a993" />
+
+
