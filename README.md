@@ -28,4 +28,6 @@
 
 ## نعمل الجدول الثاني
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f280ced-c891-4452-894a-bba9e4362e57" />
+## إضافة البيانات
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6aca135a-6177-489c-b96a-90a2772cf06e" />
 
