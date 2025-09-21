@@ -26,3 +26,6 @@
 ## إظهار الجدول
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9676b8a-1b0e-470b-822b-ecd514b64633" />
 
+## نعمل الجدول الثاني
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f280ced-c891-4452-894a-bba9e4362e57" />
+
