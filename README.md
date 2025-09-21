@@ -31,3 +31,5 @@
 ## إضافة البيانات
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6aca135a-6177-489c-b96a-90a2772cf06e" />
 
+## إظهار الجدول
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44ce51ce-e87e-4c95-9e69-6ce44f620f41" />
